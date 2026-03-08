@@ -19,7 +19,7 @@ body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 21px;
     color: gray;
-    
+
 }
 
 
@@ -28,4 +28,10 @@ body{
     font-size: 16px;
     color: aquamarine;
 
+}
+/*footer*/
+.footer--copyright{
+    font-size: 21px;
+    color: gray;
+    text-align: right;
 }
